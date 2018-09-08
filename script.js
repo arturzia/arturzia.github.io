@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  const apiRoot = 'https://desolate-brushlands-32372.herokuapp.com/v1/task/';
-  const trelloApiRoot = 'https://desolate-brushlands-32372.herokuapp.com/v1/trello/';
+  const apiRoot = 'https://shielded-earth-64960.herokuapp.com/v1/task/';
+  const trelloApiRoot = 'https://shielded-earth-64960.herokuapp.com/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
